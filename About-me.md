@@ -1,2 +1,2 @@
-I am an electrical engineering graduate looking to switch career in Data Science.
+Hey, I am an electrical engineering graduate currently learning in Data Science.
 
